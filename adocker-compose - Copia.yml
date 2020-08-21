@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockertoawswithdotnet:
+    image: ${DOCKER_REGISTRY-}dockertoawswithdotnet
+    build:
+      context: .
+      dockerfile: DockerToAWSWithDotNet/Dockerfile

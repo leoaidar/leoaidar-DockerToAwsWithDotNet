@@ -1,0 +1,16 @@
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\bin\Debug\netcoreapp2.0\appsettings.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\bin\Debug\netcoreapp2.0\Evolve.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\bin\Debug\netcoreapp2.0\DockerToAWSWithDotNet.deps.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\bin\Debug\netcoreapp2.0\DockerToAWSWithDotNet.runtimeconfig.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\bin\Debug\netcoreapp2.0\DockerToAWSWithDotNet.runtimeconfig.dev.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\bin\Debug\netcoreapp2.0\DockerToAWSWithDotNet.dll
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\bin\Debug\netcoreapp2.0\DockerToAWSWithDotNet.pdb
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\obj\Debug\netcoreapp2.0\DockerToAWSWithDotNet.AssemblyInfoInputs.cache
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\obj\Debug\netcoreapp2.0\DockerToAWSWithDotNet.AssemblyInfo.cs
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\obj\Debug\netcoreapp2.0\DockerToAWSWithDotNet.dll
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\obj\Debug\netcoreapp2.0\DockerToAWSWithDotNet.pdb
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\obj\Debug\netcoreapp2.0\DockerToAWSWithDotNet.genruntimeconfig.cache
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\obj\Debug\netcoreapp2.0\DockerToAWSWithDotNet.csproj.CoreCompileInputs.cache
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\DockerToAWSWithDotNet\obj\Debug\netcoreapp2.0\DockerToAWSWithDotNet.csprojAssemblyReference.cache

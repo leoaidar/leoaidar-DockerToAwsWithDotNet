@@ -1,0 +1,9 @@
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\bin\Debug\appsettings.Development.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\bin\Debug\appsettings.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\bin\Debug\Evolve.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\bin\Debug\Properties\launchSettings.json
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\bin\Debug\DockerToAWSWithDotNet.dll
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\bin\Debug\DockerToAWSWithDotNet.pdb
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\rep\ls\Microservices\Estudos\DockerToAWSWithDotNet\obj\Debug\docker-compose.dcproj.CopyComplete
