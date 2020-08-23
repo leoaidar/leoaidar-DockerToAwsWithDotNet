@@ -27,7 +27,7 @@ after_success:
     - pip3 install wheel
     - pip3 install awscli --upgrade --user
     - export PATH=$PATH:HOME/.local/bin
-    - eval $(aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username $AWS_ACCESS_KEY_ID --password-stdin $AWS_SECRET_KEY_ID)
+    - eval $(aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username $AWS_ACCESS_KEY_ID --password-stdin $AWS_SECRET_ACCESS_KEY)
     - docker tag docker-to-aws-with-dotnet:latest $IMAGE_REPO_URL:latest
     - docker push $IMAGE_REPO_URL:latest
 notifications:
